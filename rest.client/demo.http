@@ -1,0 +1,4 @@
+# GET http://localhost:3000/girl
+
+GET http://localhost:3000/girl/getGirlById
+?id=1
